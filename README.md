@@ -7,5 +7,5 @@ make
 
 ./main
 
-######Challenges Completed:
+###### Challenges Completed:
 Set 1 : Challenges 1-5
