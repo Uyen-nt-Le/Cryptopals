@@ -1,7 +1,7 @@
 # Cryptopals
  Cryptopals Challenges from https://cryptopals.com/
 
-Run program with makefile:
+### Run program with makefile:
 
 make
 
