@@ -11,6 +11,6 @@ make
 Set 1 : Challenges 1-5
 
 Finsihed but need to cleanup/rewrite Challenges 6-9
-GitHub for this code can be found here.( https://github.com/Uyen-nt-Le/CrytoChall_UyenLe )
+GitHub for this code can be found here. ( https://github.com/Uyen-nt-Le/CrytoChall_UyenLe )
 
 Wanted to rewrite to make code easier to read and less confusing.
